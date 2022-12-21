@@ -16,7 +16,7 @@
   <img align="center" alt="Malu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Malu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Malu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Malu-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg">
+  <img align="center" alt="Malu-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   
 </div>
   
