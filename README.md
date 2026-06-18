@@ -24,12 +24,7 @@ I'm a Software Engineer with experience in fullstack development, building and m
 
 I enjoy creating scalable and maintainable software while applying software engineering best practices such as TDD, Agile methodologies, and Clean Code principles.
 
-<div align="center">
-
-| ☁️ AWS & Google Cloud Certified | 🤖 AI-Assisted Development Enthusiast | 🚀 Passionate about Cloud, Software Architecture, and Modern Development Practices |
-| :-----------------------------: | :-----------------------------------: | :--------------------------------------------------------------------------------: |
-
-</div>
+AWS & Google Cloud Certified, AI-Assisted Development Enthusiast, and passionate about Cloud, Software Architecture, and Modern Development Practices.
 
 ---
 
@@ -88,27 +83,17 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 ---
 
-## 🌎 Let's Connect
+## 🌎 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/malucoimbra/">
-<img src="https://img.shields.io/badge/LinkedIn-Maria%20Luísa%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Maria%20Luísa%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-  
 
 <a href="mailto:seuemail@exemplo.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
 
 </div>
 
