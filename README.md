@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Software Engineer with experience in fullstack development, building and maintaining web applications, APIs, and integrations using technologies such as C#, .NET, React, JavaScript, and TypeScript.
+I'm a Software Engineer at Thoughtworks with experience in fullstack development, building and maintaining web applications, APIs, and integrations using technologies such as C#, .NET, React, JavaScript, and TypeScript.
 
 I enjoy creating scalable and maintainable software while applying software engineering best practices such as TDD, Agile methodologies, and Clean Code principles.
 
