@@ -57,19 +57,6 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 ---
 
-## 🤖 AI-Powered Development
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
