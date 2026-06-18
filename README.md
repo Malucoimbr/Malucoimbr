@@ -67,16 +67,6 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Malucoimbr&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -91,7 +81,7 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/malucoimbra/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
