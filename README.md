@@ -2,7 +2,7 @@
 
 # Hi there, I'm Maria Luísa 👋
 
-### Software Engineer • Cloud Enthusiast • AI-Assisted Developer
+### Software Engineer • Cloud & AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;AWS+Certified;Google+Cloud+Certified;React+%7C+.NET+Developer;Cloud+and+AI+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -25,7 +25,7 @@ I enjoy creating scalable and maintainable software while applying software engi
 ## 🚀 Current Focus
 
 - Cloud Architecture
-- AI-Assisted Development
+- AI
 - Fullstack Engineering
 - Software Design & Architecture
 - Microservices
@@ -76,8 +76,6 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Malucoimbr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malucoimbr&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -87,16 +85,6 @@ I enjoy creating scalable and maintainable software while applying software engi
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Malucoimbr&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Malucoimbr&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
