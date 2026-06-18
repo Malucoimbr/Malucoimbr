@@ -74,9 +74,9 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Malucoimbr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malucoimbr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -86,7 +86,7 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Malucoimbr&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -96,7 +96,7 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Malucoimbr&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -106,7 +106,7 @@ I enjoy creating scalable and maintainable software while applying software engi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malucoimbr&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
