@@ -24,7 +24,7 @@ I'm a Software Engineer with experience in fullstack development, building and m
 
 I enjoy creating scalable and maintainable software while applying software engineering best practices such as TDD, Agile methodologies, and Clean Code principles.
 
-AWS & Google Cloud Certified, AI-Assisted Development Enthusiast, and passionate about Cloud, Software Architecture, and Modern Development Practices.
+AWS & Google Cloud Certified, AI Enthusiast, and passionate about Cloud, Software Architecture, and Modern Development Practices.
 
 ---
 
